@@ -1,0 +1,9 @@
+{
+  "name": "Pokemon App!",
+  "short_name": "pokemon-app",
+  "description": "Otra aplicación de pokemon...",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#c71717",
+  "theme_color": "#c71717"
+}
